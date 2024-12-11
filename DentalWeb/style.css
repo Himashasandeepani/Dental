@@ -20,7 +20,7 @@ color: white; /* Optional, for better text contrast */
 }
   
   body {
-    background-color: var(--bs-primary);
+   
     color: var(--bs-secondary);
   }
 
@@ -39,7 +39,6 @@ color: white; /* Optional, for better text contrast */
   .hero-section {
     background-color: var(--bs-primary);
     color: var(--bs-secondary);
-    background-image: url('dental/images/Icon.png');
     background-size: cover;
     background-position: center;
     padding: 5rem 0;
